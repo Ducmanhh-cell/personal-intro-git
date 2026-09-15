@@ -11,3 +11,7 @@ section {
 section h2 {
     font-size: 24px;
 }
+body {
+    background-color: red;
+    font-size: 50px;
+}
